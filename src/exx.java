@@ -5,6 +5,7 @@ public class exx {
 		// TODO Auto-generated method stub
 System.out.println("buna");
 System.out.println("hei");
+System.out.println("ce faci?");
 	}
 
 }
