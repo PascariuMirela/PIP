@@ -6,6 +6,7 @@ public class exx {
 System.out.println("buna");
 System.out.println("hei");
 System.out.println("ce faci?");
+System.out.println("bine");
 	}
 
 }
